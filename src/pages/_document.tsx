@@ -5,7 +5,10 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <meta property="fc:frame" content="vNext" />
-        <meta property="fc:frame:image" content="/download.jpeg" />
+        <meta
+          property="fc:frame:image"
+          content="https://far-from-farcaster.vercel.app/download.jpeg"
+        />
         <meta property="og:image" content="/download.jpeg" />
         <meta property="fc:frame:button:1" content="Click here" />
         <meta property="fc:frame:post_url" content="https://www.google.com" />
