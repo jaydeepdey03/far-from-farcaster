@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="fc:frame:image" content="/next.svg" />
         <meta property="og:image" content="/next.svg" />
         <meta property="fc:frame:button:1" content="Click here" />
-        <meta property="fc:frame:post_url" content="google.com" />
+        <meta property="fc:frame:post_url" content="https://www.google.com" />
         <meta property="fc:frame:input:text" content="Enter your Input" />
       </Head>
       <body>
