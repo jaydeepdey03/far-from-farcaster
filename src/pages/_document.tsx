@@ -7,9 +7,12 @@ export default function Document() {
         <meta property="fc:frame" content="vNext" />
         <meta
           property="fc:frame:image"
-          content="https://far-from-farcaster.vercel.app/download.jpeg"
+          content="https://far-from-farcaster.vercel.app/IMG_0074.mov"
         />
-        <meta property="og:image" content="/download.jpeg" />
+        <meta
+          property="og:image"
+          content="https://far-from-farcaster.vercel.app/IMG_0074.mov"
+        />
         <meta property="fc:frame:button:1" content="Click here" />
         <meta property="fc:frame:post_url" content="https://www.google.com" />
         <meta property="fc:frame:input:text" content="Enter your Input" />
